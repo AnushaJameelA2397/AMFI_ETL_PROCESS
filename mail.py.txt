@@ -1,0 +1,2 @@
+previous_month = today.replace(day=1) - timedelta(days=1)
+previous_month
